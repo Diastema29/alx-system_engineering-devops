@@ -1,1 +1,1 @@
-Clean Emacs
+clean emacs
