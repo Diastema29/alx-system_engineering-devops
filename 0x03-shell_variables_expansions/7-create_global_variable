@@ -1,2 +1,2 @@
 !#/bin/bash
-eport School="BEST"
+export School="BEST"
