@@ -1,1 +1,1 @@
-love exponent
+binary to decimal
